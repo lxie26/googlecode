@@ -4,36 +4,25 @@ Coffee is a caffeinated drink made from coffee beans that is popular not only am
 
 Many working adults start their day off with a plain cup of coffee to boost their energy. Teens have gotten more creative and enjoy different flavors and different types of coffee. A popular coffee chain, [Starbucks](https://www.starbucks.com/menu), has provided teens with hundreds and thousands of drink combinations. 
 
-However, everyday people do not really know anything about the different types of coffee, like espresso, macchiatos, and lattes. There are so many to keep track of that 
+However, everyday people do not really know anything about the different types of coffee, like espresso, macchiatos, and lattes. There are so many to keep track of, but here is a breakdown what the most popular types of coffees are. 
 
-### Markdown
+![Coffee](https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/04/15/16/china-coffee-cup.jpg?w968h681)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Cappuccino
 
-```markdown
-Syntax highlighted code block
+A cappuccino is an espresso based drink that is 1/3 espresso, 1/3 steamed milk, and 1/3 wet foamed milk. This drink originated in Italy and can be served both hot and iced. 
 
-# Header 1
-## Header 2
-### Header 3
+### Latte
 
-- Bulleted
-- List
+A latte is a also consisted of both espresso and milk. The ratio of espresso to milk is 1:3; the word "latte" itself means "milk coffee". Both the cappucino and latte are more suited people who want a sweeter coffee.
 
-1. Numbered
-2. List
+### Macchiato
+Unlike the cappucino and latte, there is a lot more espresso than there is coffee. The ratio of espresso to milk in this drink is 2:1, giving it a more intense and bitter taste.
 
-**Bold** and _Italic_ and `Code` text
+### Americano
+An americano is made up of espresso and not milk--water. The espresso is being diluted by however much water is added, and how strong the coffee is depends on the amount of espresso and water added. 
 
 [Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lxie26/googlecode/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
