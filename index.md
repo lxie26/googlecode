@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Coffee!
 
-You can use the [editor on GitHub](https://github.com/lxie26/googlecode/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Coffee is a caffeinated drink made from coffee beans that is popular not only among teens, but also among adults. It has a bitter taste that is often balanced out with things like milk, sugar, and creamer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Many working adults start their day off with a plain cup of coffee to boost their energy. Teens have gotten more creative and enjoy different flavors and different types of coffee. A popular coffee chain, [Starbucks](https://www.starbucks.com/menu), has provided teens with hundreds and thousands of drink combinations. 
+
+However, everyday people do not really know anything about the different types of coffee, like espresso, macchiatos, and lattes. There are so many to keep track of that 
 
 ### Markdown
 
