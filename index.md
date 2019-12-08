@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 ## Coffee!
 
 Coffee is a caffeinated drink made from coffee beans that is popular not only among teens, but also among adults. It has a bitter taste that is often balanced out with things like milk, sugar, and creamer.
