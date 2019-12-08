@@ -22,10 +22,12 @@ Unlike the cappucino and latte, there is a lot more espresso than there is coffe
 ### Americano
 An americano is made up of espresso and not milk--water. The espresso is being diluted by however much water is added, and how strong the coffee is depends on the amount of espresso and water added. 
 
+Here is a list of different coffees and the ratio of espresso to milk/water:
+
 | Coffee Type | Espresso : Milk/Water |
 |-------------|---------------------- |
 | Cappuccino  |       1:3 Milk        |
 | Latte       |       1:3 Milk        |
 | Macchiato   |       2:1 Milk        |
-|Americano    |       1:1 Water       |
+| Americano   |       1:1 Water       |
 
