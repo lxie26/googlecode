@@ -10,14 +10,22 @@ However, everyday people do not really know anything about the different types o
 
 ### Cappuccino
 
-A cappuccino is an espresso based drink that is 1/3 espresso, 1/3 steamed milk, and 1/3 wet foamed milk. This drink originated in Italy and can be served both hot and iced. 
+A cappuccino is an espresso based drink that is made up of espresso, milk, and milk foam. This drink originated in Italy and can be served both hot and iced. 
 
 ### Latte
 
-A latte is a also consisted of both espresso and milk. The ratio of espresso to milk is 1:3; the word "latte" itself means "milk coffee". Both the cappucino and latte are more suited people who want a sweeter coffee.
+A latte is a also consisted of both espresso and milk, having more milk than espresso. The word "latte" itself means "milk coffee". Both the cappucino and latte are more suited people who want a sweeter coffee.
 
 ### Macchiato
 Unlike the cappucino and latte, there is a lot more espresso than there is coffee. The ratio of espresso to milk in this drink is 2:1, giving it a more intense and bitter taste.
 
 ### Americano
 An americano is made up of espresso and not milk--water. The espresso is being diluted by however much water is added, and how strong the coffee is depends on the amount of espresso and water added. 
+
+| Coffee Type | Espresso : Milk/Water |
+|-------------|---------------------- |
+| Cappuccino  |       1:3 Milk        |
+| Latte       |       1:3 Milk        |
+| Macchiato   |       2:1 Milk        |
+|Americano    |       1:1 Water       |
+
